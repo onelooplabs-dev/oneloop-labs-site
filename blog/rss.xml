@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OneLoop Labs Blog</title>
+    <link>https://onelooplabs.com/blog</link>
+    <description>Insights on SAP integrations, Microsoft Teams workflows, and enterprise automation from the OneLoop Labs team.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Feb 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://onelooplabs.com/blog/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Introducing SAP Approvals for Teams</title>
+      <link>https://onelooplabs.com/blog/introducing-sap-approvals-for-teams</link>
+      <description>We're building a new way to handle SAP approvals — directly inside Microsoft Teams. Here's what it does, why we built it, and how to get early access.</description>
+      <author>hello@onelooplabs.com (Tyrone Swinnie)</author>
+      <pubDate>Wed, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://onelooplabs.com/blog/introducing-sap-approvals-for-teams</guid>
+    </item>
+
+    <item>
+      <title>Why SAP Approval Workflows Need a Modern UX</title>
+      <link>https://onelooplabs.com/blog/why-sap-approval-workflows-need-modern-ux</link>
+      <description>SAP's approval UX was designed for a desktop-first world. Your approvers live in Teams, Outlook, and mobile. It's time for a fundamental rethink.</description>
+      <author>hello@onelooplabs.com (Tyrone Swinnie)</author>
+      <pubDate>Wed, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://onelooplabs.com/blog/why-sap-approval-workflows-need-modern-ux</guid>
+    </item>
+
+    <item>
+      <title>Step-by-Step: Connecting S/4HANA to Microsoft Teams</title>
+      <link>https://onelooplabs.com/blog/connecting-s4hana-to-microsoft-teams</link>
+      <description>A technical guide to the architecture, APIs, and decisions involved in building a real-time integration between SAP S/4HANA and Microsoft Teams for approval workflows.</description>
+      <author>hello@onelooplabs.com (Tyrone Swinnie)</author>
+      <pubDate>Wed, 05 Feb 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://onelooplabs.com/blog/connecting-s4hana-to-microsoft-teams</guid>
+    </item>
+  </channel>
+</rss>
